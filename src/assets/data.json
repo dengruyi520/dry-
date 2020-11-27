@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "0",
+      "title": "平衡车",
+      "price": "1399.00",
+      "src": "https://img10.360buyimg.com/imgzone/jfs/t8134/340/1774071041/13145/eff09414/59bfb418Nb83d37c6.jpg"
+    },
+    {
+      "id": "1",
+      "title": "电饭煲",
+      "price": "599",
+      "src": "https://img10.360buyimg.com/imgzone/jfs/t8722/23/1817027249/8870/bd3aa480/59bfb5d9Ndc2ae3b6.jpg"
+    },
+    {
+      "id": "2",
+      "title": "扫地机器人",
+      "price": "799",
+      "src": "https://img10.360buyimg.com/imgzone/jfs/t9301/239/1311029948/12363/81f81bb5/59bf89f0N07c54cf9.jpg"
+    },
+    {
+      "id": "3",
+      "title": "净化器",
+      "price": "1399",
+      "src": "https://img10.360buyimg.com/imgzone/jfs/t8224/104/2067028606/15902/c0a6cc65/59c3d68cN1c4c59cf.jpg"
+    }
+  ]
+}

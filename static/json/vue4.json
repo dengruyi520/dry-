@@ -1,0 +1,57 @@
+{
+    "result": [{
+            "id": 1,
+            "checked": false,
+            "title": "Beats EP 头戴耳机",
+            "num": 1,
+            "price": 558,
+            "f_num": 1872,
+            "pic": "/static/img/1.jpg"
+        },
+        {
+            "id": 2,
+            "checked": false,
+            "title": "Beats EP 头戴耳机",
+            "num": 1,
+            "price": 558,
+            "f_num": 1872,
+            "pic": "/static/img/2.jpg"
+        },
+        {
+            "id": 3,
+            "checked": false,
+            "title": "Beats EP 头戴耳机",
+            "num": 1,
+            "price": 558,
+            "f_num": 1872,
+            "pic": "/static/img/3.jpg"
+        },
+        {
+            "id": 4,
+            "checked": false,
+            "title": "Beats EP 头戴耳机",
+            "num": 1,
+            "price": 558,
+            "f_num": 1872,
+            "pic": "/static/img/4.jpg"
+        },
+        {
+            "id": 5,
+            "checked": false,
+            "title": "Beats EP 头戴耳机",
+            "num": 1,
+            "price": 558,
+            "f_num": 1872,
+            "pic": "/static/img/5.jpg"
+        },
+        {
+            "id": 6,
+            "checked": false,
+            "title": "Beats EP 头戴耳机",
+            "num": 1,
+            "price": 558,
+            "f_num": 1872,
+            "pic": "/static/img/6.jpg"
+        }
+    ]
+}

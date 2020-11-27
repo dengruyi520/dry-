@@ -1,0 +1,43 @@
+{
+	"result": [{
+		"_id": "5a080a27ad8b300e28e2fec2",
+		"title": "Apple iPhone 6 32GB 金色 移动联通电信",
+		"cid": "59f1e4919bfd8f3bd030eed6",
+		"price": 2599,
+		"old_price": "2599",
+		"pic": "http://jd.itying.com/upload/zlfMglPBGbKBQYHCim8OAqLx.jpg",
+		"s_pic": "http://jd.itying.com/upload/zlfMglPBGbKBQYHCim8OAqLx.jpg_200x200.jpg"
+	}, {
+		"_id": "5a080a45ad8b300e28e2fec3",
+		"title": "小米MIX2 全网通 6GB+64GB 黑色 移动联通电信4G手机 双卡双待",
+		"cid": "59f1e4919bfd8f3bd030eed6",
+		"price": 789,
+		"old_price": "888",
+		"pic": "http://jd.itying.com/upload/1p7ZZkChKE1orn1vNmxX0cxe.jpg",
+		"s_pic": "http://jd.itying.com/upload/1p7ZZkChKE1orn1vNmxX0cxe.jpg_200x200.jpg"
+	}, {
+		"_id": "5a080a5bad8b300e28e2fec4",
+		"title": "OPPO R11 全网通4G+64G 双卡双待手机 玫瑰金色",
+		"cid": "59f1e4919bfd8f3bd030eed6",
+		"price": 0,
+		"old_price": "",
+		"pic": "http://jd.itying.com/upload/eTNWwXO9mlobw4kBHrUWqxzU.jpg",
+		"s_pic": "http://jd.itying.com/upload/eTNWwXO9mlobw4kBHrUWqxzU.jpg_200x200.jpg"
+	}, {
+		"_id": "5a080a7dad8b300e28e2fec5",
+		"title": "荣耀9 全网通 标配版 4GB+64GB 魅海蓝 移动联通电信4G手机 双卡双待",
+		"cid": "59f1e4919bfd8f3bd030eed6",
+		"price": 2354,
+		"old_price": "2354",
+		"pic": "http://jd.itying.com/upload/dtolmlMtXDua6ogKOPuNN5JB.jpg",
+		"s_pic": "http://jd.itying.com/upload/dtolmlMtXDua6ogKOPuNN5JB.jpg_200x200.jpg"
+	}, {
+		"_id": "5a080a9fad8b300e28e2fec6",
+		"title": "荣耀 畅玩6X 4GB 32GB 全网通4G手机 高配版 玫瑰金",
+		"cid": "59f1e4919bfd8f3bd030eed6",
+		"price": 789,
+		"old_price": "11111",
+		"pic": "http://jd.itying.com/upload/HSAZYh1vXyzn3kvpso4fs7iT.jpg",
+		"s_pic": "http://jd.itying.com/upload/HSAZYh1vXyzn3kvpso4fs7iT.jpg_200x200.jpg"
+	}]
+}

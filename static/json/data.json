@@ -1,0 +1,27 @@
+{
+    "data": [{
+            "id": "0",
+            "title": "平衡车",
+            "price": "1399.00",
+            "src": "/static/img/1.jpg"
+        },
+        {
+            "id": "1",
+            "title": "电饭煲",
+            "price": "599",
+            "src": "/static/img/2.jpg"
+        },
+        {
+            "id": "2",
+            "title": "扫地机器人",
+            "price": "799",
+            "src": "/static/img/3.jpg"
+        },
+        {
+            "id": "3",
+            "title": "净化器",
+            "price": "1399",
+            "src": "/static/img/4.jpg"
+        }
+    ]
+}

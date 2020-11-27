@@ -1,0 +1,31 @@
+{
+    "drylist": [{
+            "dry_checked": false,
+            "dry_name": "苹果",
+            "dry_price": 5,
+            "dry_num": 0,
+            "dry_delFlag": true
+        },
+        {
+            "dry_checked": false,
+            "dry_name": "香蕉",
+            "dry_price": 2,
+            "dry_num": 1,
+            "dry_delFlag": false
+        },
+        {
+            "dry_checked": false,
+            "dry_name": "火龙果",
+            "dry_price": 15,
+            "dry_num": 1,
+            "dry_delFlag": false
+        },
+        {
+            "dry_checked": false,
+            "dry_name": "榴莲",
+            "dry_price": 18,
+            "dry_num": 1,
+            "dry_delFlag": false
+        }
+    ]
+}
